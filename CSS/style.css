@@ -13,8 +13,7 @@ input {
 }
 
 form {
-    background-image: url(./img/pokedex.jpg);
-    width: auto;
+    background-image: url(/img/pokedex.jpg);
     height: 690px;
     width: 510px;
 
