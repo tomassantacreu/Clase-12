@@ -10,19 +10,13 @@ input {
     font-family: 'Orbitron', sans-serif;
     font-size: 75px;
     border: 0px;
-    size: 10px;
 }
 
 form {
-    height: 690px;
-    width: 510px;
-}
-
-
-p {
-    background-image: url(/img/pokedex.jpg);
+    background-image: url(../img/pokedex.jpg);
     height: 690px;
     width: 510px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
