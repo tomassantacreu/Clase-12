@@ -13,10 +13,11 @@ input {
 }
 
 form {
-    background-image: url(/img/pokedex.jpg);
+    background-image: url(./img/pokedex.jpg);
     width: auto;
     height: 690px;
     width: 510px;
+
     display: flex;
     align-items: center;
     justify-content: center;
