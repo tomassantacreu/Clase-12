@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+input {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    color: aliceblue;
+    text-shadow: 0px 0px 10px rgb(0, 238, 255);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 75px;
+    border: 0px;
+}
+
+form {
+    background-image: url(/img/pokedex.jpg);
+    width: auto;
+    height: 690px;
+    width: 510px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
